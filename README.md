@@ -1,5 +1,5 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:b6c954,100:73aa55&height=240&text=Hello!%20I'm%20Youn%20Hyeonseo☘️&animation=fadeIn&fontColor=ffffff&fontSize=40" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:b6c954,100:73aa55&height=240&text=Hello!%20I'm%20Youn%20Hyeonseo☘️&animation=fadeIn&fontColor=ffffff&fontSize=25" />
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> ☘️ </h2>  
