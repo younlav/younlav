@@ -5,4 +5,4 @@
 
 * portfolio: https://younlav.github.io
 * LinkedIn: https://www.linkedin.com/in/youn-hyeonseo/
-* e-mail: cos122686@gmail.com
+* e-mail: hyeonseo.youn.work@gmail.com
